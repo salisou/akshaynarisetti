@@ -1,4 +1,4 @@
-![HEY, I'M AKSHAY](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
+![HEY, I'M AKSHAY]([https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg](https://www.bing.com/images/search?view=detailV2&ccid=Aa%2bxuIHb&id=781ED38CAA453E3A2DB41E0717C4F2BC6051AD9D&thid=OIP.Aa-xuIHbcj_Rt0ZlARvvWgHaDj&mediaurl=https%3a%2f%2fblog.ndepend.com%2fwp-content%2fuploads%2fglobal-coding-standards-2-960x460.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.01afb1b881db723fd1b74665011bef5a%3frik%3dna1RYLzyxBcHHg%26pid%3dImgRaw%26r%3d0&exph=460&expw=960&q=image+coding+in+svg&simid=608030970029612599&FORM=IRPRST&ck=218FE2BC39489AF91CABE64B1A38B755&selectedIndex=40))
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
